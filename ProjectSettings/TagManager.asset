@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Tile
+  - Enemy
+  - Trap
+  - nextStage
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -13,10 +17,10 @@ TagManager:
   - Water
   - UI
   - Tile
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Player
+  - PlayerDamaged
+  - Trap
   - 
   - 
   - 
